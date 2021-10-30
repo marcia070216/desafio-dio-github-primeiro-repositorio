@@ -1,10 +1,13 @@
 # desafio-dio-github-primeiro-repositorio
-Projeto sobre Git/Github
-Repósitorio criado para desafio do projeto
+Projeto sobre organizar os estudos:
+
+1) Priorizar tarefas;
+2) Iniciar tarefas de fácil compreensão e resolução;
+3) Solicitar ajuda através de mentorias especializadas;
+4) Executar os assuntos que domina;
+5) Revisar assuntos.
+6) Estar focado no objetivo.   
 
 
 
-##Aprendendo a programar
 
-## Links utéis
-[sintaxe basica Markdown] (https://www.markdownguide.org/basic-syntax)
